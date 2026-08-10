@@ -24,6 +24,8 @@
   <img src="https://i.pinimg.com/1200x/f2/f2/b2/f2f2b23f75d9f0b5465b492077da1c37.jpg" alt="Discord" width="60" height="60">
 </a>
 
+
+
 <a href="https://x.com/b1uxo" style="text-decoration: none;">
   <img src="https://i.pinimg.com/1200x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg" alt="X" width="60" height="60">
 </a>
