@@ -1,20 +1,7 @@
-**Hi I am Bluxo!**
-
-Skills & Tools
-
-Machine Learning & AI
-
-PyTorch
-TensorFlow
-Neural Networks
-
-Development
-
-Git & GitHub
-Python development
-JavaScript
-
-Design & Media
-
-Adobe Premiere Pro
-Adobe After Effects
+Bluxo
+# Largest heading (H1)
+AI Engineer
+## Heading (H2)
+### Smaller heading (H3)
+#### Even smaller (H4)
+Regular text
