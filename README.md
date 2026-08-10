@@ -1,16 +1,18 @@
-## Hi there 👋
+Skills & Tools
 
-<!--
-**bluxo1/bluxo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning & AI
 
-Here are some ideas to get you started:
+PyTorch
+TensorFlow
+Neural Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Development
+
+Git & GitHub
+Python development
+JavaScript
+
+Design & Media
+
+Adobe Premiere Pro
+Adobe After Effects
