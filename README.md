@@ -1,5 +1,4 @@
-Bluxo
-# Largest heading (H1)
+# Bluxo
 AI Engineer
 ## Heading (H2)
 ### Smaller heading (H3)
