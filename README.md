@@ -1,6 +1,15 @@
 # Bluxo
-AI Engineer
-## Heading (H2)
-### Smaller heading (H3)
-#### Even smaller (H4)
-Regular text
+
+## AI Engineer
+
+### Skills
+
+**Machine Learning & AI**
+- PyTorch
+- TensorFlow
+- Neural Networks
+
+**Development**
+- Git & GitHub
+- Python development
+- JavaScript
