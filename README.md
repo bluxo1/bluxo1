@@ -20,4 +20,4 @@
 
 ## 🔗 Connect
 
-[![Discord](https://img.shields.io/badge/Discord-bluxo-5865F2?style=flat-square&logo=discord)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/Discord-bluxo-5865F2?style=flat-square&logo=discord)](https://discord.com/users/bluxo)
