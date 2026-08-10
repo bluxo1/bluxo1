@@ -21,9 +21,9 @@
 ## 🔗 Connect
 
 <a href="https://discord.com/users/749272617667657809">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://i.pinimg.com/1200x/f2/f2/b2/f2f2b23f75d9f0b5465b492077da1c37.jpg![Uploading image.png…]()" alt="Discord">
 </a>
 
 <a href="https://x.com/b1uxo">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  <img src="https://i.pinimg.com/1200x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg![Uploading image.png…]()="X">
 </a>
