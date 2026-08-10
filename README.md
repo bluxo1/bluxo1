@@ -20,4 +20,10 @@
 
 ## 🔗 Connect
 
-[![Discord](https://img.shields.io/badge/Discord-bluxo-5865F2?style=flat-square&logo=discord)](https://discord.com/users/bluxo)
+<a href="https://discord.com/users/749272617667657809">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="https://x.com/b1uxo">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
