@@ -1,6 +1,7 @@
 # Bluxo
 
-Skills
+Skills-
+
 Python, Javascript, Pytorch, Tensorflow, Node.js, Docker
 
 ## 🎵 Now Playing
