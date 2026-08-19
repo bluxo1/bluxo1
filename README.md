@@ -19,7 +19,6 @@ AI engineer working mostly in Python — deep learning with PyTorch and TensorFl
 plus the API and networking layer that has to exist for a model to be worth anything
 outside a notebook.
 
-Open to collaboration — reach me on X.
 
 ## Stack
 
