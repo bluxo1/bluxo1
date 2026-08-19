@@ -1,19 +1,40 @@
-# Bluxo
+# bluxo1
 
-Skills-
+> Recruiter-friendly proof and contact path.
 
-Python, Javascript, Pytorch, Tensorflow, Node.js, Docker
+## Header
 
-## 🎵 Now Playing
+Hi, I'm **bluxo1**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p57nef2wgbcmzjcbeomtwlux7m&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31p57nef2wgbcmzjcbeomtwlux7m&redirect=true)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bluxo1&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=bluxo1&theme=github-dark" alt="bluxo1 hero section" />
+  </picture>
+</p>
+## About Me
 
-## 🔗 Connect
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=bluxo1&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=bluxo1&theme=github-dark" alt="bluxo1 about section" />
+  </picture>
+</p>
+## Skills
 
-<a href="https://discord.com/users/749272617667657809" style="text-decoration: none; display: inline-block; margin-right: 20px;">
-  <img src="https://i.pinimg.com/1200x/f2/f2/b2/f2f2b23f75d9f0b5465b492077da1c37.jpg" alt="Discord" width="50" height="50">
-</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bluxo1&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=bluxo1&theme=github-dark" alt="bluxo1 stack section" />
+  </picture>
+</p>
+## Connect
 
-<a href="https://x.com/b1uxo" style="text-decoration: none; display: inline-block;">
-  <img src="https://i.pinimg.com/1200x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg" alt="X" width="50" height="50">
-</a>
+X: b1uxo
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=bluxo1&theme=github-dark&x=b1uxo&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=bluxo1&theme=github-dark&x=b1uxo" alt="bluxo1 social section" />
+  </picture>
+</p>
