@@ -4,8 +4,6 @@
 
 # Bluxo
 
-**To become a star you must burn**
-
 [![X](https://img.shields.io/badge/X-@b1uxo-000000?style=flat&logo=x&logoColor=white)](https://x.com/b1uxo)
 [![GitHub](https://img.shields.io/badge/GitHub-@bluxo1-181717?style=flat&logo=github&logoColor=white)](https://github.com/bluxo1)
 
