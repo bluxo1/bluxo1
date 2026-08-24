@@ -4,12 +4,6 @@
   I train models, and I build the things people actually use them through.
 </p>
 
-<p align="center">
-  <a href="https://x.com/b1uxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48" alt="X" /></a>
-  <a href="https://github.com/bluxo1"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" /></a>
-  <a href="https://discord.com/users/749272617667657809"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>
-</p>
-
 <br>
 
 ## About Me
@@ -50,9 +44,8 @@ database under it, and the network between them.
 ## Connect
 
 <p align="center">
-  <a href="https://x.com/b1uxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48" alt="X" /></a>
-  <a href="https://github.com/bluxo1"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" /></a>
-  <a href="https://discord.com/users/749272617667657809"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>
+  <a href="https://x.com/b1uxo"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" height="48" alt="X" /></a>
+  <a href="https://discord.com/users/749272617667657809"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="48" alt="Discord" /></a>
 </p>
 
 <p align="center">
