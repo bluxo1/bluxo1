@@ -11,13 +11,17 @@
 
 ## 🛠 Tools!
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,bash,pytorch,tensorflow,sklearn,numpy,pandas,fastapi,flask,postgres,postman,linux,git,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,bash,pytorch,tensorflow,sklearn,numpy,pandas,fastapi,flask,postgres,postman,linux,git,docker&theme=dark&perline=9" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bluxo1&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluxo1&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&langs_count=6" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluxo1&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bluxo1&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=bluxo1&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ## 🔗 Connect With Me
