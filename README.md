@@ -11,7 +11,8 @@
 
 ## 🛠 Tools!
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,bash,pytorch,tensorflow,sklearn,numpy,pandas,fastapi,flask,postgres,postman,linux,git,docker&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,bash,pytorch,
+tensorflow,sklearn,fastapi,flask,postgres,postman,linux,git,docker&theme=dark&perline=8" />
 
 ## 📊 GitHub Stats
 
