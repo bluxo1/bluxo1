@@ -2,6 +2,9 @@
 
 <p align="center">
   Full Stack Engineer
+</p>
+
+<p align="center">
   I train models, and I build the things people actually use them through.
 </p>
 
