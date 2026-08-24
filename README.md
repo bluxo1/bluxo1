@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/b1uxo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/bluxo1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/b1uxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48" alt="X" /></a>
+  <a href="https://github.com/bluxo1"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" /></a>
+  <a href="https://discord.com/users/749272617667657809"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>
 </p>
 
 <br>
@@ -49,6 +50,11 @@ database under it, and the network between them.
 ## Connect
 
 <p align="center">
-  <a href="https://x.com/b1uxo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/bluxo1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/b1uxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48" alt="X" /></a>
+  <a href="https://github.com/bluxo1"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" /></a>
+  <a href="https://discord.com/users/749272617667657809"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>
+</p>
+
+<p align="center">
+  <sub>Discord: <code>749272617667657809</code></sub>
 </p>
