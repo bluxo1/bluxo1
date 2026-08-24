@@ -47,7 +47,3 @@ database under it, and the network between them.
   <a href="https://x.com/b1uxo"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" height="48" alt="X" /></a>
   <a href="https://discord.com/users/749272617667657809"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" height="48" alt="Discord" /></a>
 </p>
-
-<p align="center">
-  <sub>Discord: <code>749272617667657809</code></sub>
-</p>
