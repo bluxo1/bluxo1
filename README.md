@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shikhar</h1>
 
 <h1 align="center">
-   Full Stack Engineer
+   AI Engineer
 </h1>
 
 <p align="center">
