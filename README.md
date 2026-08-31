@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shikhar!</h1>
+<h1 align="center">Hi, I'm Shikhar</h1>
 
 <p align="center">
   I train models, and I build the things people actually use them through.
