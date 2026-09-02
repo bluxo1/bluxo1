@@ -25,7 +25,7 @@ database under it, and the network between them.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,bash,mysql&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,mysql&theme=dark&perline=7" />
 
 **AI / ML & Data**
 
