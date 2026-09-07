@@ -17,7 +17,7 @@ database under it, and the network between them.
 - Serving them over **FastAPI** and **Flask**
 - Building interfaces with **React**, **Next.js**, and **Tailwind**
 - Debugging what the wire is really doing in **Wireshark**
-- Most at home in **Python**, also write **TypeScript**, **C/C++**, and **Bash**
+- Most at home in **Python**, also write **TypeScript**
 
 <br>
 
